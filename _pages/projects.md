@@ -6,7 +6,7 @@ use_math: true
 title: "Projects"
 excerpt: "Projects"
 ---
-
+<!--
 I have outlined my non-research projects in this page. My research work can be found [here](https://kc1729.github.io/research/)
 
 Technical Projects:
@@ -45,3 +45,4 @@ Technical Projects:
 8.  **Pyraminx Utility Kit** (Jan '15 - April '16) <br/>
     *Guide : [Prof. Kavi Arya](https://https://www.it.iitb.ac.in/~kavi/), CSE Department, IIT Bombay* <br/>
     Implemented the BFS algorithm and AVL trees to derive the  optimal solutions of a Pyraminx, a tetrahedron Rubiks Cube style puzzle. Used Allegro, a C++ framework,  to design an interface to help solve pyraminx optimally, find cube algorithms and generate solve analysis. Designed an Android app implementing image processing techniques to read pyraminx configurations and send it to a Java server.
+--->
