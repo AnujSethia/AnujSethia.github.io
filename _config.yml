@@ -6,15 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
-title                    : "Karan Chadha Home Page"
-title_separator          : " - "
-name                     : &name "Karan Chadha"
-description              : &description "Personal homepage of Karan Chadha"
-url                      : https://kc1729.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Anuj Sethia"
+title_separator          : "-"
+name                     : &name "Anuj Sethia"
+description              : &description "Graduate from Indian Institue of Technology Bombay"
+url                      : https://AnujSethia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kc1729/kc1729.github.io"
+repository               : "AnujSethia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Karan Chadha"
-  avatar           : "website_edited.jpg"
-  bio              : "Fifth Year Dual Degree (B.Tech + M.Tech) Student, Electrical Engineering, IIT Bombay"
+  name             : "Anuj Sethia"
+  avatar           : "profile.jpg"
+  bio              : "Fourth Year B.Tech Student, Mechanical Engineering, IIT Bombay"
   location         : "Mumbai, India"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "karanc1729[at]gmail.com"
+  pubmed           : 
+  googlescholar    : 
+  email            : "anuj.sethia.as@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Anuj_Sethia"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : kc1729
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/anuj-sethia-713218142/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -127,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -256,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
