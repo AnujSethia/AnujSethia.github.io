@@ -12,10 +12,15 @@ My research interests broadly lie in **Applied Probability, Learning Theory, Opt
 
 Research Projects:
 ===
-1.  **Strategic Interaction on Networks with Imperfect Substitutability | Master's Thesis** (June '18 - Present) <br/>
-    *Guide : [Prof. Ankur Kulkarni](http://www.sc.iitb.ac.in/~ankur/), Systems & Control Department, IIT Bombay* <br/>
-    *Introduction*: We study a public goods game on networks with imperfect substitutability, wherein each node is an agent and the action performed is the effort put in the game. The benefit function of each player is dependent on the sum of their own effort and a substitutability factor times the sum of effort of each of their neighbours. The cost is dependent on only one's own effort.
-    * Proved that the Nash equilibria of a public goods game on a network are given by suitably scaled solutions to a Linear Complementarity Problem defined using the adjacency matrix of the underlying graph.<br/>
-    * Characterized the effort maximizing solutions of public goods game using special structures on the graph which are generalizations of independent sets.<br/>
-    * Derived absolute upper bounds for the aggregate effort of any equilibria when the underlying graphs are trees.<br/>
+1.  ***Nucleated Bubble Model*** (Nov ’17 - Dec ’18) <br/>
+    *Guide : Prof. Janani Srree Murallidharan, Mechanical Engineering, IIT Bombay* <br/>
+    **Introduction**: 
     
+   *Studied bubble growth and departure dynamics (including lift-off) in two-phase flows, and in boiling heat transfer phenomena for both pool and flow boiling conditions.<br/>
+   *Performed an assessment of the prediction capabilities of existing bubble departure models.<br/>
+   *Developed a more accurate mechanistic bubble growth and departure diameter model with
+increased capability for low sub-cooling conditions upto 60 K.<br/>
+   *Studied the applicability of the bubble growth models for operating conditions pertaining to boiling
+crisis in nuclear reactors i.e. critical heat flux prediction in PWR’s.<br/>
+   *Presented the work in 7th International and 45th National Fluid Mechanics and Fluid Power
+(FMFP-2018) conference.<br/>
