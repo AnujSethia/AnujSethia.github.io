@@ -14,8 +14,7 @@ Research Projects:
 ===
 1.  **Nucleated Bubble Model** (Nov ’17 - Dec ’18) <br/>
     *Guide : Prof. Janani Srree Murallidharan, Mechanical Engineering, IIT Bombay* <br/>
-    **Introduction**: 
-    
+    **Introduction**: .<br/>
     *Studied bubble growth and departure dynamics (including lift-off) in two-phase flows, and in boiling heat transfer phenomena for both pool and flow boiling conditions.<br/>
     *Performed an assessment of the prediction capabilities of existing bubble departure models.<br/>
     *Developed a more accurate mechanistic bubble growth and departure diameter model with
