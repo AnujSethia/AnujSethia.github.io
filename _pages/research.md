@@ -10,12 +10,12 @@ excerpt: "Research Experience"
 My current research interests broadly lie in **Quantum Information Theory**. I am primarily interested in theoretical aspects of problems in these fields and I also like to apply these tools to solve real world problems.
 ===
 1.  **Quantum Optimal Control** (Jan ’20 - ) <br/>
-    *Guide : Prof. Sai Vinjanampathy, Physics Department, IIT Bombay* <br/>
+    *Guide : [Prof. Sai Vinjanampathy](), Physics Department, IIT Bombay* <br/>
 
 
 
 2. **Nucleated Bubble Model** (Nov ’17 - Dec ’18) <br/>
-    *Guide : Prof. Janani Srree Murallidharan, Mechanical Engineering, IIT Bombay* <br/>
+    *Guide : [Prof. Janani Srree Murallidharan](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Janani%20Srree%20Murallidharan), Mechanical Engineering, IIT Bombay* <br/>
 
     **Introduction**: We studied boiling heat transfer for industrial systems like Pressurized Water Reactors (PWRs) in which safety crisis related events, such as the ‘Critical Heat Flux’ occurs frequently. The near-wall vapour dynamics which trigger CHF was studied for designing safe and efficient systems.<br/>
 
