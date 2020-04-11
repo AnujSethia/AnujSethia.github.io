@@ -3,14 +3,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 use_math: true
-title: "Research Experience"
+title: "Research Experiences"
 excerpt: "Research Experience"
 ---
 
 My current research interests broadly lie in **Quantum Information Theory**. I am primarily interested in theoretical aspects of problems in these fields and I also like to apply these tools to solve real world problems.
-
-
-Research Projects:
 ===
 1.  **Quantum Optimal Control** (Jan ’20 - ) <br/>
     *Guide : Prof. Sai Vinjanampathy, Physics Department, IIT Bombay* <br/>
