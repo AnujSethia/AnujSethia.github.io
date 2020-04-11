@@ -7,10 +7,12 @@ title: "Research Experiences"
 excerpt: "Research Experience"
 ---
 
+
 My current research interests broadly lie in **Quantum Information Theory**. I am primarily interested in theoretical aspects of problems in these fields and I also like to apply these tools to solve real world problems.
-===
+
+
 1.  **Quantum Optimal Control** (Jan ’20 - ) <br/>
-    *Guide : [Prof. Sai Vinjanampathy](), Physics Department, IIT Bombay* <br/>
+    *Guide : [Prof. Sai Vinjanampathy](https://sites.google.com/view/qitiitb), Physics Department, IIT Bombay* <br/>
 
 
 
@@ -25,7 +27,7 @@ My current research interests broadly lie in **Quantum Information Theory**. I a
     * Studied the applicability of the bubble growth models for operating conditions pertaining to boiling crisis in nuclear reactors i.e. critical heat flux prediction in PWR’s. <br/>
 
 3.  **Non-linear Dynamics of elastic materials** (May ’19 - July ’19) <br/>
-    *Guide : Prof. Qu Shaoxing, chool of Aeronautics and Astronautics, Zhejiang University* <br/>
+    *Guide : [Prof. Qu Shaoxing](https://person.zju.edu.cn/en/qu), chool of Aeronautics and Astronautics, Zhejiang University* <br/>
 
     **Introduction**: Soft materials like gelatin and hydrogel are usually used to simulate the complex response of various human tissues under multiple loading conditions. These materials follow nonlinear dynamics, such as viscoelasticity, hyperelasticity, or hyper-viscoelasticity.<br/>
 
@@ -35,7 +37,7 @@ My current research interests broadly lie in **Quantum Information Theory**. I a
     * Reviewed several hyperelastic constitutive models for brain tissues for predicting response of tissues under blast and blunt impact conditions. <br/>
 
 4.	**Sloshing in Liquid Nitrogen** (May ’18 - Jul ’18) <br/>
-	*Guide: Prof. Milind D. Atrey, Mechanical Engineering, IIT Bombay* <br/>
+	*Guide: [Prof. Milind D. Atrey](https://person.zju.edu.cn/en/qu), Mechanical Engineering, IIT Bombay* <br/>
 
 	**Introduction**: Sloshing refers to the free surface movement of a fluid inside a container. Sloshing in cryogens like LN2 and LOx produces boil-off, eventually leading to loss of cryogen. Sloshing is studied to design tank by adding baffles to reduce loss in transit.
 
