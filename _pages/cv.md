@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-[CV]: (https://anujsethia.github.io/files/CV-Anuj_Sethia.pdf) (3 pages)
+[CV](https://anujsethia.github.io/files/CV-Anuj_Sethia.pdf) (3 pages)
