@@ -39,5 +39,15 @@ crisis in nuclear reactors i.e. critical heat flux prediction in PWR’s. <br/>
     * Studied the behavior of gelatin under drop hammer impact load and devised constitutive model based on Neo-Hookean hyperelasticity to analyse dependancy of various parameters. <br/>
     * Reviewed several hyperelastic constitutive models for brain tissues for predicting response of tissues under blast and blunt impact conditions. <br/>
 
+4.	**Sloshing in Liquid Nitrogen** (May ’18 - Jul ’18) 
+*Guide: Prof. Milind D. Atrey, Mechanical Engineering, IIT Bombay* </br>
+
+**Introduction**: Sloshing refers to the free surface movement of a fluid inside a container. Sloshing in cryogens like LN2 and LOx produces boil-off, eventually leading to loss of cryogen. Sloshing is studied to design tank by adding baffles to reduce loss in transit.
+
+* Studied (2-D) liquid sloshing phenomena in a moving tank subjected to various accelerations and discovered its dependencies on parameters like density, viscosity, amount of liquid. <br/>
+* Compared numerical methods and simulation software which are optimum to study two-phase flow and free surface phenomenon for closed and ambient environment. <br/>
+* Developed a numerical model based on VOF method on ANSYS Fluent to capture free surfacing and validated it with the experimental work already existing in the literature. <br/>
+* Investigated the applicability of sloshing in areas like spacecraft’s fuel tanks, tanks subjected to oceanic motion, oceanographic and other engineering situations of free fluid surface. <br/>
+
 
 	
