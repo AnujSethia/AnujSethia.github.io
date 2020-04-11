@@ -29,7 +29,7 @@ increased capability for low sub-cooling conditions upto 60 K.*<br/>
     * - Studied the applicability of the bubble growth models for operating conditions pertaining to boiling
 crisis in nuclear reactors i.e. critical heat flux prediction in PWR’s.*<br/>
 
-3.  **Non-linear Dynamics of elastic materials** (Nov ’17 - Dec ’18) <br/>
+3.  **Non-linear Dynamics of elastic materials** (May ’19 - July ’19) <br/>
     *Guide : Prof. Qu Shaoxing, chool of Aeronautics and Astronautics, Zhejiang University* <br/>
 
     **Introduction**: Soft materials like gelatin and hydrogel are usually used to simulate the complex response of various human tissues under multiple loading conditions. These materials follow nonlinear dynamics, such as viscoelasticity, hyperelasticity, or hyper-viscoelasticity.<br/>
