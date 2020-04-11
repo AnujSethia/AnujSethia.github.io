@@ -10,11 +10,12 @@ I have outlined my non-research projects(hobbie projects) in this page.
 
 
 1.  **Dilution refrigerator** (Jan ’19 - Apr '19) <br/>
-    *Guide: [Prof. Milind D. Atrey](https://person.zju.edu.cn/en/qu), Course Project, IIT Bombay* <br/>
+    *Guide: [Prof. Milind D. Atrey](https://www.me.iitb.ac.in/~matrey/), Course Project, IIT Bombay* <br/>
 
     * Reproduced perfect continuous counter flow heat exchanger models existing in the literature to study the performance of dilution refrigerator and its various dependencies. <br/>
     * Analyzed the effect of Kapitza resistance between solid-liquid, mixing temperature and effective surface area of the heat exchanger on the cooling power and studied the heat leaks. <br/>
     * Developed models and compared them with experimental data available in the literature for varying circulation rates and surface area. <br/>
+ 
  
 
 2.  **SeDriCa: Self Driving Car** (Oct ’17 - Mar ’18) <br/>
