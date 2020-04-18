@@ -6,7 +6,7 @@ use_math: true
 title: "Projects"
 excerpt: "Projects"
 ---
-I have outlined my non-research projects(hobbie projects) in this page.
+Some of my other technical projects(hobbie projects) are:
 
 
 1.  **Dilution refrigerator** (Jan ’19 - Apr '19) <br/>
