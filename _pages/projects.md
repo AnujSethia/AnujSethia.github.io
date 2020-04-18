@@ -14,9 +14,8 @@ Some of my other technical projects(hobbie projects) are:
 
     * Reproduced perfect continuous counter flow heat exchanger models existing in the literature to study the performance of dilution refrigerator and its various dependencies. <br/>
     * Analyzed the effect of Kapitza resistance between solid-liquid, mixing temperature and effective surface area of the heat exchanger on the cooling power and studied the heat leaks. <br/>
-    * Developed models and compared them with experimental data available in the literature for varying circulation rates and surface area. <br/>
- 
- <br/>
+    * Developed models and compared them with experimental data available in the literature for varying circulation rates and surface area. <br/> <br/>
+
 
 2.  **SeDriCa: Self Driving Car** (Oct ’17 - Mar ’18) <br/>
     *[Unmesh Mashruwal Innovation Cell](http://umiciitb.com/), IIT Bombay* <br/>

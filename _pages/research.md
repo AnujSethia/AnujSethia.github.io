@@ -7,10 +7,6 @@ title: "Research Experiences"
 excerpt: "Research Experience"
 ---
 
-
-My current research interests broadly lie in **Quantum Information Theory**. I am primarily interested in theoretical aspects of problems in these fields and I also like to apply these tools to solve real world problems.
-
-
 <!-- 1.  **Quantum Optimal Control** (Jan ’20 - ) <br/>
     *Guide : [Prof. Sai Vinjanampathy](https://sites.google.com/view/qitiitb), Physics Department, IIT Bombay* <br/>
 	-->
