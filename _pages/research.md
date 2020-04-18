@@ -12,7 +12,7 @@ excerpt: "Research Experience"
 	-->
 
 
-2. **Nucleated Bubble Model** (Nov ’17 - Dec ’18) <br/>
+2. **Bubble Dynamics in Pool Boiling** (Nov ’17 - Dec ’18) <br/>
     *Guide : [Prof. Janani Srree Murallidharan](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Janani%20Srree%20Murallidharan), Mechanical Engineering, IIT Bombay* <br/>
 
     **Introduction**: We studied boiling heat transfer for industrial systems like Pressurized Water Reactors (PWRs) in which safety crisis related events, such as the ‘Critical Heat Flux’ occurs frequently. The near-wall vapour dynamics which trigger CHF was studied for designing safe and efficient systems.<br/>
