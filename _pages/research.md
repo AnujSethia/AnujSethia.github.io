@@ -26,7 +26,7 @@ My current research interests broadly lie in **Quantum Information Theory**. I a
     * Developed a more accurate mechanistic bubble growth and departure diameter model with increased capability for low sub-cooling conditions upto 60 K. <br/>
     * Studied the applicability of the bubble growth models for operating conditions pertaining to boiling crisis in nuclear reactors i.e. critical heat flux prediction in PWR’s. <br/>
 
-<br />
+<br/>
 
 3.  **Non-linear Dynamics of elastic materials** (May ’19 - July ’19) <br/>
     *Guide : [Prof. Qu Shaoxing](https://person.zju.edu.cn/en/qu), chool of Aeronautics and Astronautics, Zhejiang University* <br/>
@@ -38,7 +38,7 @@ My current research interests broadly lie in **Quantum Information Theory**. I a
     * Studied the behavior of gelatin under drop hammer impact load and devised constitutive model based on Neo-Hookean hyperelasticity to analyse dependancy of various parameters. <br/>
     * Reviewed several hyperelastic constitutive models for brain tissues for predicting response of tissues under blast and blunt impact conditions. <br/>
 
-<br />
+<br/>
 
 4.	**Sloshing in Liquid Nitrogen** (May ’18 - Jul ’18) <br/>
 	*Guide: [Prof. Milind D. Atrey](https://www.me.iitb.ac.in/~matrey/), Mechanical Engineering, IIT Bombay* <br/>
