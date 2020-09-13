@@ -7,13 +7,13 @@ title: "Research Experiences"
 excerpt: "Research Experience"
 ---
 1.  **Security Analysis of DPS QKD** (Jun ’20 - Sep '20) <br/>
-    *Guide : Dr. Anindita Banerjee, QNu Labs, Bengaluru* <br/>
+    *Guide : [Dr. Anindita Banerjee](https://www.linkedin.com/in/anindita-banerjee-461a85b7/), QNu Labs, Bengaluru* <br/>
 
     **Introduction:** Differential Phase Shift (DPS) is a unidirectional Quantum Key Distribution scheme that encodes information in the phase of the weak coherent light. Key information is transfered through a train of pulses with specific phase modulation.
 
-    * Studied individual attacks such as Beam Splitter, Photon Splitting, Intercept Resend attacks on DPS protocol
-    * Proved security of DPS against Phase attack, which affects polarisation based QKD protocol
-    * Studied the performance impact due to Quantum State Seperation eavesdropping via unambigous state discrimination or soft filtering
+    * Studied individual attacks such as Beam Splitter, Photon Splitting, Intercept Resend & Sequential attacks on DPS protocol
+    * Proved security of DPS against Phase attack thus droping out the need for phase randomised source
+    * Performed assisment of Quantum State Seperation eavesdropping on DPS via unambigous state discrimination or soft filtering
 
 
 1.  **Quantum Optimal Control** (Jan ’20 - Jun '20) <br/>
