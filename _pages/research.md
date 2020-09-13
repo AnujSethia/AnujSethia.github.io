@@ -7,9 +7,14 @@ title: "Research Experiences"
 excerpt: "Research Experience"
 ---
 
-<!-- 1.  **Quantum Optimal Control** (Jan ’20 - ) <br/>
+1.  **Quantum Optimal Control** (Jan ’20 - Jun '20) <br/>
     *Guide : [Prof. Sai Vinjanampathy](https://sites.google.com/view/qitiitb), Physics Department, IIT Bombay* <br/>
-	-->
+	
+    **Introduction:** Quantum computation represents unitary operations to transform the desired qubits into a target state. A robust protocol is needed to design a time-varying Hamiltonian to obtain the target evolution. Constructing this time-optimal protocol would be a straightforward error-reducing technique thus, of paramount importance.<br/>
+
+    * Studied Quantum Brachistochrone Equation for its applicability in Quantum Optimal Control problem and it's numerical solutions to obtain optimal unitary operation for the time-polynomial reachable states <br/>
+    * Studied Quantum Speed Limit and it's corollary time lower bound for arbitary unitary transformation <br/>
+    * Studied precision bounds based on the fidelity, to derive corelations with recently proposed information theoratic bounds <br/>
 
 
 2. **Bubble Dynamics in Pool Boiling** (Nov ’17 - Dec ’18) <br/>
