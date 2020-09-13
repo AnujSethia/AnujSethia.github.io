@@ -19,8 +19,8 @@ Keeping aside research, I love reading, traveling and listening to music (or any
 
 **Updates:**
 * [*Sep 2020*] Joined [QNu Labs](https://www.qnulabs.com) as a Research Assistant on the Quantum Key Distribution System
-* [*Jun 2020*] Started intern with [QNu Labs](https://www.qnulabs.com) to work on security analysis for DPS QKD
-* [*Apr 2020*] Recieved admit from Georgia Tech for Physics PhD for Fall 2020
+* [*Jun 2020*] Started intern with [QNu Labs](https://www.qnulabs.com) to work on security analysis for **Differential Phase Shift QKD**
+* [*Apr 2020*] Recieved admit from **Georgia Tech** for Physics PhD for Fall 2020
 * [*Oct 2019*] [Paper](https://anujsethia.github.io/files/JEES_2019.pdf) on Subcooled Pool Boiling in JEES 2019
 * [*Mar 2019*] Awarded the Undergraduate Research Award at IIT Bombay
 * [*Dec 2018*] Presented my work on bubble dynamics at FMFP 2018 ([Paper](https://anujsethia.github.io/files/FMFP_2018.pdf))
