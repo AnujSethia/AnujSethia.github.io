@@ -7,7 +7,7 @@ title: "Research Experiences"
 excerpt: "Research Experience"
 ---
 1.  **Security Analysis of DPS QKD** (Jun ’20 - Sep '20) <br/>
-    *Guide : Dr. Anindita Banerjee, QNu Labs* <br/>
+    *Guide : Dr. Anindita Banerjee, QNu Labs, Bengaluru* <br/>
 
     **Introduction:** Differential Phase Shift (DPS) is a unidirectional Quantum Key Distribution scheme that encodes information in the phase of the weak coherent light. Key information is transfered through a train of pulses with specific phase modulation.
 
