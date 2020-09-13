@@ -6,6 +6,15 @@ use_math: true
 title: "Research Experiences"
 excerpt: "Research Experience"
 ---
+1.  **Security Analysis of DPS QKD** (Jun ’20 - Sep '20) <br/>
+    *Guide : Dr. Anindita Banerjee, QNu Labs* <br/>
+
+    **Introduction:** Differential Phase Shift (DPS) is a unidirectional Quantum Key Distribution scheme that encodes information in the phase of the weak coherent light. Key information is transfered through a train of pulses with specific phase modulation.
+
+    *
+    *
+    *
+
 
 1.  **Quantum Optimal Control** (Jan ’20 - Jun '20) <br/>
     *Guide : [Prof. Sai Vinjanampathy](https://sites.google.com/view/qitiitb), Physics Department, IIT Bombay* <br/>
@@ -14,7 +23,7 @@ excerpt: "Research Experience"
 
     * Studied Quantum Brachistochrone Equation for its applicability in Quantum Optimal Control problem and it's numerical solutions to obtain optimal unitary operation for the time-polynomial reachable states <br/>
     * Studied Quantum Speed Limit and it's corollary time lower bound for arbitary unitary transformation <br/>
-    * Studied precision bounds based on the fidelity, to derive corelations with recently proposed information theoratic bounds <br/>
+    * Studied precision bounds based on the fidelity, to derive corelations with recently proposed information theoratic bounds <br/> <br/>
 
 
 2. **Bubble Dynamics in Pool Boiling** (Nov ’17 - Dec ’18) <br/>
